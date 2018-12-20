@@ -78,7 +78,7 @@ The first endpoint we'll look at on OpenNotify is the` iss-now.json` endpoint (c
 
 ### Check the next pass of International space station for a given location
 
-Let's repeat the above for the second endpoint `iss_pass.json`. This end point is used to query the next pass of the space station on a given location. Let's just run as above and record your observations
+Let's repeat the above for the second endpoint `iss-pass.json`. This end point is used to query the next pass of the space station on a given location. Let's just run as above and record your observations
 
 
 ```python
